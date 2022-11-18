@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\workspaces\projetos\dsmeta\backend\src\main\java\com\devsuperior\dsmeta"/>
 			<item value="C:\Users\Usuário\Documents\workspace-spring-tool-suite-4-4.7.1.RELEASE\api-algafood"/>
 			<item value="C:\Users\Usuário\Documents\workspace-spring-tool-suite-4-4.11.0.RELEASE\workspace-spring-tool-suite-4-4.7.1.RELEASE\api-algafood"/>
 		</list>
